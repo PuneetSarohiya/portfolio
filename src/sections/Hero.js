@@ -1,6 +1,7 @@
 import React from "react";
 import TypeWriter from "../components/TypeWriter";
 import { profile } from "../data";
+import resumePDF from "../assets/Puneet_Kumar_Resume.pdf";
 
 export default function Hero() {
   function handleScroll(id) {
@@ -33,13 +34,13 @@ export default function Hero() {
             >
               View Projects
             </button>
-            <a
-              href="/images/Puneet_Kumar_Resume.pdf"
-              download="Puneet_Kumar_Resume.pdf"
-              className="btn btn-outline"
-            >
-              Download Resume
-            </a>
+<a
+  href={resumePDF}
+  download="Puneet_Kumar_Resume.pdf"
+  className="btn btn-outline"
+>
+  Download CV
+</a>
           </div>
         </div>
         <div className="home-visual">
