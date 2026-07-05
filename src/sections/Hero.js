@@ -34,7 +34,7 @@ export default function Hero() {
               View Projects
             </button>
             <a
-              href="/resume/Puneet_Kumar_Resume.pdf"
+              href="/images/Puneet_Kumar_Resume.pdf"
               download="Puneet_Kumar_Resume.pdf"
               className="btn btn-outline"
             >
