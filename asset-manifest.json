@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f46fc1fe.css",
-    "main.js": "/portfolio/static/js/main.62574cbd.js",
+    "main.js": "/portfolio/static/js/main.af616611.js",
     "static/media/Puneet_Kumar_Resume.pdf": "/portfolio/static/media/Puneet_Kumar_Resume.e32db5cc9662d8eb7659.pdf",
     "index.html": "/portfolio/index.html",
     "main.f46fc1fe.css.map": "/portfolio/static/css/main.f46fc1fe.css.map",
-    "main.62574cbd.js.map": "/portfolio/static/js/main.62574cbd.js.map"
+    "main.af616611.js.map": "/portfolio/static/js/main.af616611.js.map"
   },
   "entrypoints": [
     "static/css/main.f46fc1fe.css",
-    "static/js/main.62574cbd.js"
+    "static/js/main.af616611.js"
   ]
 }
