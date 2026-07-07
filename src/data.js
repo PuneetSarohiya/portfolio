@@ -21,7 +21,8 @@ export const profile = {
 
 export const about = {
   intro:
-    "Full Stack Developer with 3 years of experience building web and mobile applications using React.js, Next.js, React Native, Node.js, MySQL, and MongoDB. I've worked across frontend, backend, and mobile — picking up whatever the product needs and seeing it through from start to finish.",
+    // "Full Stack Developer with 3 years of experience building web and mobile applications using React.js, Next.js, React Native, Node.js, MySQL, and MongoDB. I've worked across frontend, backend, and mobile — picking up whatever the product needs and seeing it through from start to finish.",
+    "Software Engineer with 3 years of experience building responsive web and mobile applications using React, Next.js, React Native and Javascript. Collaborating on projects, and creating user-friendly solutions that deliver excellent performance and great digital experiences",
   points: [
     "Joined as a Frontend Developer and grew into a Full Stack role over time",
     "Built and shipped 20+ production landing & campaign pages",
@@ -73,8 +74,6 @@ export const skills = {
     { name: "AWS", icon: "fa-brands fa-aws", color: "#FF9900" },
     { name: "Docker", icon: "fa-brands fa-docker", color: "#2496ED" },
     { name: "Kubernetes", icon: "fa-solid fa-dharmachakra", color: "#326CE5" },
-    { name: "Git", icon: "fa-brands fa-git-alt", color: "#F05032" },
-    { name: "GitLab", icon: "fa-brands fa-gitlab", color: "#FC6D26" },
     { name: "Postman", icon: "fa-solid fa-paper-plane", color: "#FF6C37" },
     { name: "JIRA", icon: "fa-brands fa-jira", color: "#0052CC" },
   ],

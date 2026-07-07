@@ -98,14 +98,14 @@ export default function About() {
             ))}
           </div>
 
-          <p>{about.intro}</p>
-          <ul className="about-points">
+          <p className="about-text-description">{about.intro}</p>
+          {/* <ul className="about-points">
             {about.points.map((point) => (
               <li key={point}>
                 <i className="fa-solid fa-caret-right" /> {point}
               </li>
             ))}
-          </ul>
+          </ul> */}
         </div>
       </div>
     </section>
