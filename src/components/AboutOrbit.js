@@ -64,7 +64,6 @@ export default function AboutOrbit() {
 
       <div className="orbit-core">
         <i className="fa-solid fa-code" />
-        <span>PK</span>
       </div>
     </div>
   );
