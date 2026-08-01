@@ -2,9 +2,10 @@ export const profile = {
   name: "Puneet Kumar",
   firstName: "Puneet",
   roles: [
+    "Frontend Developer",
     "Full Stack Developer",
-    "React & Next.js Developer",
     "React Native Developer",
+    "Code Quality Advocate"
   ],
   phone: "+91 8700909877",
   email: "puneetsarohiya9877@gmail.com",
@@ -22,7 +23,7 @@ export const profile = {
 export const about = {
   intro:
     // "Full Stack Developer with 3 years of experience building web and mobile applications using React.js, Next.js, React Native, Node.js, MySQL, and MongoDB. I've worked across frontend, backend, and mobile — picking up whatever the product needs and seeing it through from start to finish.",
-    "Software Engineer with 3 years of experience building responsive web and mobile applications using React, Next.js, React Native and Javascript. Collaborating on projects, and creating user-friendly solutions that deliver excellent performance and great digital experiences",
+    "Software Engineer with 3+ years of experience building responsive web and mobile applications using React, Next.js, React Native and Javascript. Collaborating on projects, and creating user-friendly solutions that deliver excellent performance and great digital experiences",
   points: [
     "Joined as a Frontend Developer and grew into a Full Stack role over time",
     "Built and shipped 20+ production landing & campaign pages",

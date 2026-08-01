@@ -23,7 +23,7 @@ export default function Hero() {
             I'm a <TypeWriter words={profile.roles} />
           </h2>
           <p className="home-desc">
-            Full Stack Developer with 3 years of experience across React.js,
+            Software Engineer with 3+ years of experience across React.js,
             Next.js, React Native, and Node.js — based in {profile.location}.
           </p>
 
